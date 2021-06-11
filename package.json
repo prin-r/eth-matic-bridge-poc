@@ -1,0 +1,8 @@
+{
+  "name": "eth-matic-bridge-poc",
+  "license": "MIT",
+  "devDependencies": {
+    "ethlint": "^1.2.5",
+    "truffle-flattener": "^1.5.0"
+  }
+}

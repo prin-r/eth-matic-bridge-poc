@@ -1,0 +1,8 @@
+__pycache__
+node_modules/
+.pytest_cache
+.history
+.hypothesis/
+build/
+reports/
+venv/
